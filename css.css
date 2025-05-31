@@ -41,12 +41,12 @@ header {
     margin-bottom: 40px;
 }
 
-.menu-toggle {
+رسالة التحديث في خانة Summary، مثل .menu-toggle {
     display: none;
     font-size: 30px;
     background: none;
     border: none;
-    color: #ff7f50;
+    color: #f87444;
     cursor: pointer;
 }
 
